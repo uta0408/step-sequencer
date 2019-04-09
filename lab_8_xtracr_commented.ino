@@ -1,7 +1,10 @@
+// this is to test the changes in the github
+
 
 int leds[4] = { 24, 25, 26, 27 }; //set up LED pins
 int tempo = 0;
 int sequenceSwitch = 36;
+
 
 int pushbuttons[4] = { 31, 32, 33, 34 };//push button pins
 boolean lastChannelButtonState[2];
